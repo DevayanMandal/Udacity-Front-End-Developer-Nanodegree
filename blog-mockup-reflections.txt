@@ -1,0 +1,27 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* Skills: 
+ -I maintain a .html Sublime text file (I've named it: HTML_Structure.html) in which I add all new HTML elements learned as the course progresses. It allows for quick reference access.
+
+ -I'm learning to developi an eye for detail: almost missed out on the superscript tag requirement if not mentioned as a project hint.
+
+* Easy
+ -Udacity is making it easy. It is a breeze if I follow all directions carefully.
+
+* Difficult
+ -I remember trying to learn relative and local paths in my college web development cours. It took me more than hour to grasp the concepts.
+ -Udacity's relative/local path explanation allowed me to grasp concepts within 10 minutes.
+
+* Problem solving strategies
+ -Taking 10 minute breaks (rest, lay down, close my eyes, look out of window) every hour to allow the mind to regurgitate course material better.
+ -Keep Mozilla Developer Network weblink open.
+ -Keep HTML_Structure.html open for quick HTML element reference.
+ -Dual monitor setup is god send for web development!
