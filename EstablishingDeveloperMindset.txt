@@ -1,0 +1,57 @@
+Hello future Devayan as you're 1 month into Udacity's Front-End Developer 
+Nanodegree! Just thought I'd drop in a few lines on how I foresee things 
+both in the immediate and somewhat distant future.
+
+The background on establishing a Web developer mindset taught me that both 
+the pioneers of the World Wide Web and developers at Udacity faced several 
+trials and tribulations to perfect their code and design. A good set of 
+problem-solving strategies to face those trials and tribulations  would 
+include:
+
+-Sleeping over the issue to ensure that enough down time is allowed for the 
+neurons to rest and fire-up again.
+
+-Googling the issue has far more potential than I previously would have 
+expected.
+
+-Stackoverflow (the website I sort of despised) has even more potential 
+than I had previously thought of.
+
+Joyce Akiko's reference to Martocchio's study stands out the most to me! 
+Focusing on a growth mindset over a fixed mindset can not only detach the 
+label; 'failure' from one's personality, it would eventually inculcate the 
+habit of entering every coding task as a learning experience as opposed to 
+succeeding or failing. Thinking positive, thinking in questions and 
+assessing someone based on the amount/degree of effort they've put in to 
+become a successful developer are thinking strategies which I'd like to 
+actively implement.
+
+An important take away from Cathy Bechler's article about the coding 
+Emotional Roller Coaster is the visual of the 'grief' cycle which applies 
+to software development tasks. I accept that I would start off with great 
+enthusiam, face struggles along the way, experience self-doubt, take 
+time-off, go back to research and eventually be successful in my coding 
+task at hand.  This too resonates with the Martocchio study wherein it's 
+important to maintain a Growth Mindset as I find myself roll and slip at 
+different parts of the coding cycle.
+
+In terms of setting goals, I would want myself to not only set enough time 
+to learn, research and code the project tasks but have enough time to 
+'sleep over' what I've put together, obtain feedback from the forums and 
+revise my work as best as possible.
+
+I would like to generalize this same strategy of allocating enough revision 
+time into my long term goals too, be it researching for jobs in the very 
+near future and even while working in a job, after I land one. Personally, 
+a dream job for me would be one where I can keep learning in a positive 
+development environment. Presently, I do not have an idea of a specific 
+project that I would really like to work on but if I get to work with 
+projects associated with the automobile industry, then that would be a plus 
+point because I love cars!
+
+A question which I have on mind presently about the Front End Web 
+Development degree is how much would it be able to help me reach my 
+potential as a good front-end developer? I suppose I myself would be in a 
+position to answer that question - but not at this point - only after I 
+finish the degree with everyone's pointers, guidance and recommendations at 
+Udacity and the forums!
